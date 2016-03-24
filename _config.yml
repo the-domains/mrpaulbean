@@ -1,0 +1,28 @@
+name: mrpaulbean
+favicon: null
+layout_spectrum: 0.9811706971377134
+typography_spectrum: 0.7321640965528786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.15936707938089967
+  lightness: 0.5125912616495043
+  saturation: 0.014522063080221415
+  rhythmicContrast: 0.7763078198768198
+purpose: []
